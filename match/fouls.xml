@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ranks>
+	<goals>
+		<id>排名</id>
+		<player>球员</player>
+		<team>球队</team>
+		<goal>红-黄</goal>
+	</goals>
+	<goals>
+	  <id>1</id>
+	  <player>诺兰</player>
+	  <team>西汉姆联</team>
+	  <goal>2-4</goal>
+	</goals>
+	<goals>
+	  <id>2</id>
+	  <player>布朗</player>
+	  <team>桑德兰</team>
+	  <goal>2-0</goal>
+  </goals>
+  <goals>
+	  <id>3</id>
+	  <player>德布奇</player>
+	  <team>纽卡斯尔</team>
+	  <goal>1-6</goal>
+  </goals>
+   <goals>
+	  <id>4</id>
+	  <player>巴伦西亚</player>
+	  <team>曼联</team>
+	  <goal>1-6</goal>
+  </goals>
+	<goals>
+	  <id>5</id>
+	  <player>保利尼奥</player>
+	  <team>热刺</team>
+	  <goal>1-4</goal>
+  </goals>
+    <goals>
+	  <id>6</id>
+	  <player>霍华德</player>
+	  <team>埃弗顿</team>
+	  <goal>1-4</goal>
+  </goals>
+	<goals>
+	  <id>7</id>
+	  <player>惠兰</player>
+	  <team>斯托克城</team>
+	  <goal>1-4</goal>
+  </goals>
+  <goals>
+		<id>8</id>
+		<player>费尔</player>
+		<team>诺维奇</team>
+		<goal>1-4</goal>
+	</goals>
+	<goals>
+	  <id>9</id>
+	  <player>汤姆金斯</player>
+	  <team>西汉姆联</team>
+	  <goal>1-4</goal>
+	</goals>
+	
+  <goals>
+	  <id>10</id>
+	  <player>赫德尔斯通</player>
+	  <team>赫尔城</team>
+	  <goal>1-4</goal>
+  </goals>
+	
+	
+  
+</ranks>

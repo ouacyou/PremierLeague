@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ranks>
+	<!--<goals>-->
+		<!--<id>排名</id>-->
+		<!--<player>球员</player>-->
+		<!--<team>球队</team>-->
+		<!--<goal>次数</goal>-->
+	<!--</goals>-->
+	<goals>
+		  <id>1</id>
+		  <player>鲁尼</player>
+		  <team>曼联</team>
+		  <goal>9</goal>
+	  </goals>
+	<goals>
+	  <id>2</id>
+	  <player>厄齐尔</player>
+	  <team>阿森纳</team>
+	  <goal>7</goal>
+	</goals>
+	<goals>
+	  <id>3</id>
+	  <player>拉姆塞</player>
+	  <team>阿森纳</team>
+	  <goal>6</goal>
+	</goals>
+	 <goals>
+		  <id>4</id>
+		  <player>杰拉德</player>
+		  <team>利物浦</team>
+		  <goal>6</goal>
+	  </goals>
+	  <goals>
+	  <id>5</id>
+	  <player>纳瓦斯</player>
+	  <team>曼城</team>
+	  <goal>6</goal>
+  </goals>
+  <goals>
+	  <id>6</id>
+	  <player>席尔瓦</player>
+	  <team>曼城</team>
+	  <goal>6</goal>
+  </goals>
+  
+	
+  <goals>
+	  <id>7</id>
+	  <player>亨德逊</player>
+	  <team>利物浦</team>
+	  <goal>6</goal>
+  </goals>
+  <goals>
+	  <id>8</id>
+	  <player>苏亚雷斯</player>
+	  <team>利物浦</team>
+	  <goal>5</goal>
+  </goals>
+  <goals>
+	  <id>9</id>
+	  <player>西索科</player>
+	  <team>纽卡斯尔</team>
+	  <goal>5</goal>
+  </goals>
+	<goals>
+		<id>10</id>
+		<player>吉鲁</player>
+		<team>阿森纳</team>
+		<goal>5</goal>
+	</goals>
+  
+
+</ranks>

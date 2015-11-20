@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ranks>
+	<!--<goals>-->
+		<!--<id>排名</id>-->
+		<!--<player>球员</player>-->
+		<!--<team>球队</team>-->
+		<!--<goal>总计</goal>-->
+	<!--</goals>-->
+	<goals>
+	  <id>1</id>
+	  <player>苏亚雷斯</player>
+	  <team>利物浦</team>
+	  <goal>96</goal>
+  </goals>
+  
+	<goals>
+		<id>2</id>
+		<player>吉鲁</player>
+		<team>阿森纳</team>
+		<goal>70</goal>
+	</goals>
+	<goals>
+	  <id>3</id>
+	  <player>阿奎罗</player>
+	  <team>曼城</team>
+	  <goal>65</goal>
+  </goals>
+	 <goals>
+	  <id>4</id>
+	  <player>库蒂尼奥</player>
+	  <team>利物浦</team>
+	  <goal>63</goal>
+  </goals>
+	
+ 
+	<goals>
+	  <id>5</id>
+	  <player>雷米</player>
+	  <team>纽卡斯尔</team>
+	  <goal>63</goal>
+  </goals>
+  <goals>
+	  <id>6</id>
+	  <player>卡巴耶</player>
+	  <team>纽卡斯尔</team>
+	  <goal>63</goal>
+  </goals>
+  
+	<goals>
+	  <id>7</id>
+	  <player>兰伯特</player>
+	  <team>南安普顿</team>
+	  <goal>56</goal>
+  </goals>
+   <goals>
+	  <id>8</id>
+	  <player>内格雷多</player>
+	  <team>曼城</team>
+	  <goal>56</goal>
+  </goals>
+  <goals>
+	  <id>9</id>
+	  <player>巴克利</player>
+	  <team>埃弗顿</team>
+	  <goal>54</goal>
+	</goals>
+  <goals>
+	  <id>10</id>
+	  <player>博尼</player>
+	  <team>斯旺西</team>
+	  <goal>54</goal>
+  </goals>
+  
+ 
+  
+</ranks>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ranks>
+	<!--<goals>-->
+		<!--<id>排名</id>-->
+		<!--<player>球员</player>-->
+		<!--<team>球队</team>-->
+		<!--<goal>次数</goal>-->
+	<!--</goals>-->
+	<goals>
+	  <id>1</id>
+	  <player>耶迪纳克</player>
+	  <team>水晶宫</team>
+	  <goal>76</goal>
+	</goals>
+	<goals>
+	  <id>2</id>
+	  <player>皮特斯</player>
+	  <team>斯托克城</team>
+	  <goal>74</goal>
+  </goals>
+	
+	
+	<goals>
+	  <id>3</id>
+	  <player>卢卡斯</player>
+	  <team>利物浦</team>
+	  <goal>72</goal>
+   </goals>
+	<goals>
+	  <id>4</id>
+	  <player>雅各布</player>
+	  <team>西布朗维奇</team>
+	  <goal>71</goal>
+    </goals>
+  <goals>
+	  <id>5</id>
+	  <player>沃德</player>
+	  <team>水晶宫</team>
+	  <goal>71</goal>
+  </goals>
+  <goals>
+	  <id>6</id>
+	  <player>施内德林</player>
+	  <team>南安普顿</team>
+	  <goal>67</goal>
+ </goals>
+ <goals>
+	  <id>7</id>
+	  <player>蒂奥特</player>
+	  <team>纽卡斯尔</team>
+	  <goal>67</goal>
+  </goals>
+	<goals>
+		<id>8</id>
+		<player>费尔</player>
+		<team>诺维奇</team>
+		<goal>66</goal>
+	</goals>
+	<goals>
+	  <id>9</id>
+	  <player>拉米雷斯</player>
+	  <team>切尔西</team>
+	  <goal>66</goal>
+    </goals>
+	 <goals>
+	  <id>10</id>
+	  <player>萨巴莱塔</player>
+	  <team>曼城</team>
+	  <goal>65</goal>
+	</goals>
+  
+</ranks>
