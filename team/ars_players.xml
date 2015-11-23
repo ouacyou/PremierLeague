@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<players>
+	<player>
+	  <id>号码</id>
+	  <name>球员</name>
+	  <country>国籍</country>
+	  <birthday>生日</birthday>
+	  <height>身高</height>
+	  <weight>体重</weight>
+	  <position>位置</position>
+	  <worth>身价</worth>
+  </player>
+  
+  <player>
+	  <id>11</id>
+	  <name>厄齐尔</name>
+	  <country>德国</country>
+	  <birthday>1986-12-01</birthday>
+	  <height>186cm</height>
+	  <weight>79kg</weight>
+	  <position>前腰</position>
+	  <worth>5000万欧元</worth>
+  </player>
+</players>
