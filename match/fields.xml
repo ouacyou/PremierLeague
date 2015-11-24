@@ -4,8 +4,8 @@
 	  <name>酋长球场</name>
 	  <team>阿森纳</team>
 	  <overview>      酋长球场又被译为阿联酋航空球场或埃米尔球场，是英格兰足球超级联赛豪门阿森纳的主场</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/arsenal1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/arsenal2.jpg</logo2>
+	  <logo1>arsenal1.jpg</logo1>
+	  <logo2>arsenal2.jpg</logo2>
 	  <location>伦敦阿什伯顿</location>
 	  <enddate>2006年7月</enddate>
 	  <spend>3.9亿英镑</spend>
@@ -19,8 +19,8 @@
 	  <name>安菲尔德球场</name>
 	  <team>利物浦</team>
 	  <overview>      安菲尔德球场有时也被称之为安菲尔德路球场，位于英格利物浦安菲尔德区，是欧洲足球联合会的四星级球场</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/liverpool1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/liverpool2.jpg</logo2>
+	  <logo1>liverpool1.jpg</logo1>
+	  <logo2>liverpool2.jpg</logo2>
 	  <location>利物浦市安菲尔德区</location>
 	  <enddate>1884年9月</enddate>
 	  <spend>2.7亿英镑</spend>
@@ -34,8 +34,8 @@
 	  <name>老特拉福德球场</name>
 	  <team>曼联</team>
 	  <overview>      老特拉福德球场是仅次于温布利球场的英格兰第二大的足球场，别名梦剧场</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/oldtrafford1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/oldtrafford2.jpg</logo2>
+	  <logo1>oldtrafford1.jpg</logo1>
+	  <logo2>oldtrafford2.jpg</logo2>
 	  <location>曼彻斯特市内西</location>
 	  <enddate>1909年12月(1949年完成重建)</enddate>
 	  <spend>6万英镑(维护不计)</spend>
@@ -49,8 +49,8 @@
 	  <name>斯坦福桥球场</name>
 	  <team>切尔西</team>
 	  <overview>      斯坦福桥球场是英超20强最古老的球场，也是全伦敦最大的球场</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/stanford1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/stanford2.jpg</logo2>
+	  <logo1>stanford1.jpg</logo1>
+	  <logo2>stanford2.jpg</logo2>
 	  <location>伦敦富勒姆区</location>
 	  <enddate>1877年</enddate>
 	  <spend>未知</spend>
@@ -64,8 +64,8 @@
 	  <name>伊蒂哈德球场</name>
 	  <team>曼城</team>
 	  <overview>      曼彻斯特城市球场是英格兰第四大足球运动场及英国第十大运动场</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/manchester1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/manchester2.jpg</logo2>
+	  <logo1>manchester1.jpg</logo1>
+	  <logo2>manchester2.jpg</logo2>
 	  <location>曼彻斯特大区</location>
 	  <enddate>1999年</enddate>
 	  <spend>1亿英镑</spend>
@@ -79,8 +79,8 @@
 	  <name>白鹿巷球场</name>
 	  <team>热刺</team>
 	  <overview>      已经陪伴托特纳姆热刺队走过了106年的时光，19世纪末期白鹿巷原本只是隶属于啤酒商的一块苗圃</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/whl1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/whl2.jpg</logo2>
+	  <logo1>whl1.jpg</logo1>
+	  <logo2>whl2.jpg</logo2>
 	  <location>北伦敦托特纳姆区</location>
 	  <enddate>1899年9月</enddate>
 	  <spend>1亿英镑</spend>
@@ -94,8 +94,8 @@
 	  <name>古德逊公园球场</name>
 	  <team>埃弗顿</team>
 	  <overview>      古德逊公园球场是全世界最古旧的球场之一，昵称"高贵老妇"</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/goodison1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/goodison2.jpg</logo2>
+	  <logo1>goodison1.jpg</logo1>
+	  <logo2>goodison2.jpg</logo2>
 	  <location>利物浦毗邻古迪逊公园</location>
 	  <enddate>1892年8月</enddate>
 	  <spend>当时3000英镑</spend>
@@ -109,8 +109,8 @@
 	  <name>维拉公园球场</name>
 	  <team>阿斯顿维拉</team>
 	  <overview>      维拉公园球场位于旧的公园体育场附近，于1897年建成</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/villapark1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/villapark2.jpg</logo2>
+	  <logo1>villapark1.jpg</logo1>
+	  <logo2>villapark2.jpg</logo2>
 	  <location>伯明翰</location>
 	  <enddate>1897年</enddate>
 	  <spend>1.91亿欧元</spend>
@@ -124,8 +124,8 @@
 	  <name>光明球场</name>
 	  <team>桑德兰</team>
 	  <overview>      光明球场是是英格兰第五大的足球场</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/sunland1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/sunland2.jpg</logo2>
+	  <logo1>sunland1.jpg</logo1>
+	  <logo2>sunland2.jpg</logo2>
 	  <location>泰恩-威尔郡桑德兰市</location>
 	  <enddate>1996年6月</enddate>
 	  <spend>未知</spend>
@@ -139,8 +139,8 @@
 	  <name>克拉文农场球场</name>
 	  <team>富勒姆</team>
 	  <overview>      克拉文农场球场是英超赛场上最小的球场之一</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/klk1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/klk2.jpg</logo2>
+	  <logo1>klk1.jpg</logo1>
+	  <logo2>klk2.jpg</logo2>
 	  <location>伦敦富勒姆区</location>
 	  <enddate>1896年</enddate>
 	  <spend>未知</spend>
@@ -154,8 +154,8 @@
 	  <name>大不列颠尼亚球场</name>
 	  <team>斯托克城</team>
 	  <overview>      不列颠尼亚球(The Britannia Stadium)是一座位于英格兰特伦特河畔斯托克的足球场</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/stoke1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/stoke2.jpg</logo2>
+	  <logo1>stoke1.jpg</logo1>
+	  <logo2>stoke2.jpg</logo2>
 	  <location>特伦特河畔斯托克</location>
 	  <enddate>1997年</enddate>
 	  <spend>未知</spend>
@@ -169,8 +169,8 @@
 	  <name>圣詹姆斯公园球场</name>
 	  <team>纽卡斯尔</team>
 	  <overview>      圣詹姆斯公园球场是英格兰第六大足球场</overview>
-	  <logo1>http://www.hi-safety.com/super/rank/field/nkser1.jpg</logo1>
-	  <logo2>http://www.hi-safety.com/super/rank/field/nkser2.jpg</logo2>
+	  <logo1>nkser1.jpg</logo1>
+	  <logo2>nkser2.jpg</logo2>
 	  <location>纽卡斯尔市中心</location>
 	  <enddate>1892年</enddate>
 	  <spend>未知</spend>

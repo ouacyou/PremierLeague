@@ -5,7 +5,7 @@
 	  <name>阿尔塞纳·温格</name>
 	  <engname>Arsène Wenger</engname>
 	  <team>阿森纳 Arsenal</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/wenger.jpg</photo>
+	  <photo>wenger.jpg</photo>
 	  <nation>法国 斯特拉斯堡</nation>
 	  <age>1949年10月22日</age>
 	  <salary>620万英镑</salary>
@@ -51,7 +51,7 @@
 	  <name>亚历克斯·弗格森</name>
 	  <engname>Alex Ferguson</engname>
 	  <team>前曼联 Manchester United</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/ferguson.jpg</photo>
+	  <photo>ferguson.jpg</photo>
 	  <nation>苏格兰 格拉斯哥</nation>
 	  <age>1941年12月31日</age>
 	  <salary>750万英镑</salary>
@@ -99,7 +99,7 @@
 	  <name>何塞·穆里尼奥</name>
 	  <engname>José Mourinho</engname>
 	  <team>切尔西 Chelsea</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/mourinho.jpg</photo>
+	  <photo>mourinho.jpg</photo>
 	  <nation>葡萄牙 塞图巴尔</nation>
 	  <age>1963年1月26日</age>
 	  <salary>1000万英镑</salary>
@@ -151,7 +151,7 @@
 	  <name>大卫·莫耶斯</name>
 	  <engname>David Moyes</engname>
 	  <team>曼联 Manchester United</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/moyes.jpg</photo>
+	  <photo>moyes.jpg</photo>
 	  <nation>苏格兰 贝尔斯登</nation>
 	  <age>1963年4月25日</age>
 	  <salary>500万英镑</salary>
@@ -174,7 +174,7 @@
 	  <name>曼努埃尔·佩莱格里尼</name>
 	  <engname>Manuel Pellegrini</engname>
 	  <team>曼城 Manchester City</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/pellegrini.jpg</photo>
+	  <photo>pellegrini.jpg</photo>
 	  <nation>智利 圣地亚哥</nation>
 	  <age>1953年9月16日</age>
 	  <salary>500万英镑</salary>
@@ -211,7 +211,7 @@
 	  <name>布伦丹·罗杰斯</name>
 	  <engname>Brendan Rodgers</engname>
 	  <team>利物浦 Liverpool</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/rodgers.jpg</photo>
+	  <photo>rodgers.jpg</photo>
 	  <nation>北爱尔兰 卡恩拉夫</nation>
 	  <age>1973年01月26日</age>
 	  <salary>300万英镑</salary>
@@ -232,7 +232,7 @@
 	  <name>维拉斯·博阿斯</name>
 	  <engname>Villas Boas</engname>
 	  <team>前热刺 Tottenham Hotspur</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/boas.jpg</photo>
+	  <photo>boas.jpg</photo>
 	  <nation>葡萄牙 波尔图</nation>
 	  <age>1977年10月17日</age>
 	  <salary>300万英镑</salary>
@@ -262,7 +262,7 @@
 	  <name>拉斐尔·贝尼特斯</name>
 	  <engname>Rafael Benítez Maudes</engname>
 	  <team>前利物浦 Liverpool</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/maudes.jpg</photo>
+	  <photo>maudes.jpg</photo>
 	  <nation>西班牙 马德里</nation>
 	  <age>1960年4月16日</age>
 	  <salary>350万欧元</salary>
@@ -308,7 +308,7 @@
 	  <name>卡尔洛·安切洛蒂</name>
 	  <engname>Carlo Ancelotti</engname>
 	  <team>前切尔西 Chelsea</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/ancelotti.jpg</photo>
+	  <photo>ancelotti.jpg</photo>
 	  <nation>意大利 雷吉奥洛</nation>
 	  <age>1959年6月10日</age>
 	  <salary>740万欧元</salary>
@@ -361,7 +361,7 @@
 	  <name>罗伯托·曼奇尼</name>
 	  <engname>Roberto Mancini</engname>
 	  <team>前曼城 Manchester City</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/mancini.jpg</photo>
+	  <photo>mancini.jpg</photo>
 	  <nation>意大利 耶西</nation>
 	  <age>1964年11月27日</age>
 	  <salary>750万英镑</salary>
@@ -410,7 +410,7 @@
 	  <name>罗伯托·迪马特奥</name>
 	  <engname>Roberto Di Matteo</engname>
 	  <team>前切尔西 Chelsea</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/dimatteo.jpg</photo>
+	  <photo>dimatteo.jpg</photo>
 	  <nation>意大利(瑞士出身)</nation>
 	  <age>1970年5月29日</age>
 	  <salary>380万英镑</salary>
@@ -446,7 +446,7 @@
 	  <name>哈里·雷德克纳普</name>
 	  <engname>Henry Redknapp</engname>
 	  <team>女王公园巡游者 QueensParkRangers</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/redknapp.jpg</photo>
+	  <photo>redknapp.jpg</photo>
 	  <nation>英格兰 伦敦</nation>
 	  <age>1947年3月2日</age>
 	  <salary>300万英镑</salary>
@@ -466,7 +466,7 @@
 	  <name>保罗·兰伯特</name>
 	  <engname>Paul Lambert</engname>
 	  <team>阿斯顿维拉 Aston Villa</team>
-	  <photo>http://www.hi-safety.com/super/rank/coach/lambert.jpg</photo>
+	  <photo>lambert.jpg</photo>
 	  <nation>苏格兰 格拉斯哥</nation>
 	  <age>1969年8月7日</age>
 	  <salary>230万英镑</salary>
